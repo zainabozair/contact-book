@@ -1,0 +1,108 @@
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 1
+Enter conatct name: Zainab Ozair
+Enter phone number: 12345
+contact added successfully
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 1
+Enter conatct name: Mary Adams
+Enter phone number: 56789
+contact added successfully
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 1
+Enter conatct name: Zainab Ozair
+contact already exists.
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 2
+Zainab Ozair : 12345
+Mary Adams : 56789
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 3
+Enter contact name to search: Zainab
+Zainab Ozair : 12345
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 3
+Enter contact name to search: John
+Contact not found.
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 4
+Enter contact name to delete: Mary Adams
+contact deleted.
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 2
+Zainab Ozair : 12345
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 8
+Invalid choice. Please enter a number from 1 to 5.
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: hello
+Invalid input. Please enter a number from 1 to 5.
+
+Contact Book Menu:
+1. Add New Contact
+2. View All Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice 1-5: 5
+Exiting Contact Book. Goodbye!
+PS C:\Users\msham\Documents\Git\contact-book-python> 
